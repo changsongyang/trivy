@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.58.2](https://github.com/aquasecurity/trivy/compare/v0.58.1...v0.58.2) (2025-01-08)
+
+
+### Bug Fixes
+
+* CVE-2025-21613 and CVE-2025-21614 : go-git: argument injection via the URL field [backport: release/v0.58] ([#8215](https://github.com/aquasecurity/trivy/issues/8215)) ([b733ecc](https://github.com/aquasecurity/trivy/commit/b733ecc7bc752d61837d08f2650bd480b645bb1d))
+
 ## [0.58.1](https://github.com/aquasecurity/trivy/compare/v0.58.0...v0.58.1) (2024-12-24)
 
 
